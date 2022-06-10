@@ -1,0 +1,51 @@
+[
+  {
+    "productid": "001",
+    "productname": "water Bottle",
+    "amount": 200,
+    "qty": 1,
+    "total_amount": 0
+  },
+  {
+    "productid": "002",
+    "productname": "Washing Machine",
+    "amount": 24260,
+    "qty": 1,
+    "total_amount": 0
+  },
+  {
+    "productid": "003",
+    "productname": "Voltas AC",
+    "amount": 15622,
+    "qty": 1,
+    "total_amount": 0
+  },
+  {
+    "productid": "004",
+    "productname": "Warlpool Refergirator",
+    "amount": 253699,
+    "qty": 1,
+    "total_amount": 0
+  },
+  {
+    "productid": "005",
+    "productname": "Hp laptop",
+    "amount": 253699,
+    "qty": 1,
+    "total_amount": 0
+  },
+  {
+    "productid": "006",
+    "productname": "Mouse",
+    "amount": 650,
+    "qty": 1,
+    "total_amount": 0
+  },
+  {
+    "productid": "007",
+    "productname": "Table",
+    "amount": 759,
+    "qty": 1,
+    "total_amount": 0
+  }
+]
